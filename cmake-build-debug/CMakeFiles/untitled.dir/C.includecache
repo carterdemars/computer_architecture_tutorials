@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/carterdemars/Library/CloudStorage/OneDrive-UniversityofWaterloo/2B/MTE241/mte241_tutorials/library.c
+library.h
+/Users/carterdemars/Library/CloudStorage/OneDrive-UniversityofWaterloo/2B/MTE241/mte241_tutorials/library.h
+stdio.h
+-
+
+/Users/carterdemars/Library/CloudStorage/OneDrive-UniversityofWaterloo/2B/MTE241/mte241_tutorials/library.h
+
