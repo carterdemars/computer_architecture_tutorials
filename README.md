@@ -1,1 +1,1 @@
-# Problem Sets for MTE241: Computer Architecture & RTOS
+# Computer Architecture (MTE241) Problem Sets
